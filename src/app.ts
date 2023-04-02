@@ -1,1 +1,4 @@
-console.log('Ahoy TypeScript!');
+import {introduction} from "./introduction";
+
+introduction();
+
